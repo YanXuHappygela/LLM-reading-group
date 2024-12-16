@@ -10,6 +10,7 @@ LLM reading group discussed at Houston Machine Learning Meetup
 - Inference Optimization for Foundation Models on AI Accelerators: Model Quantization and Distillation. [paper](https://drive.google.com/file/d/1uVhHtRBwXy7o8ejaS6Ab6pSybkzticE3/view), [recording](https://youtu.be/9nmmfjM-b8g)
 - Inference Optimization for Foundation Models on AI Accelerators: Architecture, KV cache and Flash attention. [paper](https://drive.google.com/file/d/1uVhHtRBwXy7o8ejaS6Ab6pSybkzticE3/view), [recording](https://youtu.be/jk2FsJxZFo8)
 - Mixtral of Experts. [paper](https://arxiv.org/abs/2401.04088), [recording](https://youtu.be/nw8ByURxaSQ)
+- Textbooks are All You Need: Phi 1 & 1.5. [paper](https://arxiv.org/abs/2306.11644), [recording](https://youtu.be/VLoLFHg7aQM)
 - Llama family: Alpaca Vicuna and LLaVA. [paper](https://arxiv.org/abs/2304.08485), [recording](https://youtu.be/za4yminmZ-w)
 - Llama 2: Open Foundation and Fine-Tuned Chat Models. [paper](https://arxiv.org/abs/2307.09288), [recording](https://youtu.be/cr42NH4cDEQ)
 - LLaMA: Open and Efficient Foundation Language Models. [paper](https://arxiv.org/abs/2302.13971), [recording](https://youtu.be/A6h7shg8rEw)
