@@ -22,8 +22,9 @@ LLM reading group discussed at Houston Machine Learning Meetup
 - Secrets in Training a Large Language Model: Pretraining, Fine-tuning and RLHF. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/secrets_in_training_LLM.pdf) [recording](https://youtu.be/cybEKSNBp-w)
 - Introduction to Transformers. [paper](https://arxiv.org/abs/1706.03762), [recording](https://youtu.be/k6LrtDzrpWw)
 - DeepSeek R1: Incentivizing Reasoning Capability in LLMs. [paper](https://arxiv.org/abs/2501.12948), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a91d35520f98d444cd3f52601585ecc5a6eb143b/presentation-slides/DeepSeek-R1.pdf), [recording](https://youtu.be/AEN_D3UIFvY?si=pQUQpzgYY6CiqmTx)
+- DeepSeek V3: Architecture and Design. [paper](https://arxiv.org/pdf/2412.19437), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/c4970f07c99c031d0164a86054d2a120bd943a45/presentation-slides/DeepSeek-V3.pdf), [recording](https://youtu.be/pGn7h86V230?si=o-hL7nYOKtKXVFsH)
 
-- 
+  
 ## Hands-on Session
 - Hands-on session with Fine-tuning a LLM. [notebook](https://colab.research.google.com/drive/1QNOyWzD8H7xA6_ulVeL-5NIXWqMMR7kp?usp=drive_link), [recording](https://youtu.be/ZRQBCSZR-5E)
 - Hands-on session of RAG with Llama 3. [notebook](https://colab.research.google.com/drive/1CuohoBl31hcAKuRdTYwxGY374v0Mc7uV?usp=drive_link), [recording](https://youtu.be/ooz8juF2e3I)
