@@ -1,5 +1,5 @@
 # LLM reading group
-LLM reading group discussed at Houston Machine Learning Meetup
+LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
 ## Paper Reading
 - DeepSeek R1: Incentivizing Reasoning Capability in LLMs. [paper](https://arxiv.org/abs/2501.12948), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a91d35520f98d444cd3f52601585ecc5a6eb143b/presentation-slides/DeepSeek-R1.pdf), [recording](https://youtu.be/AEN_D3UIFvY?si=pQUQpzgYY6CiqmTx)
