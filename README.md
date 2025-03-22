@@ -2,6 +2,7 @@
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
 ## Paper Reading
+- Large Language Model based Multi-agent System: A Survey of Progress and Challenges. [Paper](https://arxiv.org/pdf/2402.01680), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/0c33c40b0afc6ff3ba972c959330b41ad5b29292/presentation-slides/Multi-agent%20system%20review.pdf), [recording](https://youtu.be/71-W_X2DQxk?si=5fwduJUVrhLbcXiy)
 - DeepSeek R1: Incentivizing Reasoning Capability in LLMs. [paper](https://arxiv.org/abs/2501.12948), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a91d35520f98d444cd3f52601585ecc5a6eb143b/presentation-slides/DeepSeek-R1.pdf), [recording](https://youtu.be/AEN_D3UIFvY?si=pQUQpzgYY6CiqmTx)
 - DeepSeek V3: Architecture and Design. [paper](https://arxiv.org/pdf/2412.19437), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/c4970f07c99c031d0164a86054d2a120bd943a45/presentation-slides/DeepSeek-V3.pdf), [recording](https://youtu.be/pGn7h86V230?si=o-hL7nYOKtKXVFsH)
 - Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning. [paper](https://arxiv.org/abs/2205.05638), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/Few-shot-fine-tuning.pdf), [recording](https://youtu.be/3NBp_us1Lww)
