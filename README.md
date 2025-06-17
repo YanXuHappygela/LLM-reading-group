@@ -1,7 +1,12 @@
 # LLM reading group
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
-## Paper Reading
+## Agentic AI Use Case
+- LAW: Legal Agentic Workflows for Custody and Fund Services Contracts. [Paper](https://arxiv.org/pdf/2412.11063)
+- AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environment. [Paper](https://arxiv.org/pdf/2405.07960), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/f19d9e79fb7f5285ada03ec142e6295e7732346f/presentation-slides/Agentic_AI_clinical_diagnosis.pdf), [recording](https://youtu.be/4KYuY-vNbDs?si=h4btqvqEiOPzBudX)
+- Amazon 2024 KDD cup: Multi Task Online Shopping Challenge for LLMs. [paper](https://openreview.net/pdf?id=sv0E1mBhu8), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/NVIDIA-KDD2024-Slides.pdf), [recording](https://youtu.be/0rVId3DGEeY)
+  
+## Research papers
 - AFlow: Automating Agentic Workflow Generation. [Paper](https://arxiv.org/abs/2410.10762), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a9caff8e065f1f015b2cdcfc2570d864f125c317/presentation-slides/AFlow.pdf), [recording](https://youtu.be/07FFbeD3qWM?si=prJNq6jQcxO7yAL6)
 - Large Language Model based Multi-agent System: A Survey of Progress and Challenges. [Paper](https://arxiv.org/pdf/2402.01680), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/0c33c40b0afc6ff3ba972c959330b41ad5b29292/presentation-slides/Multi-agent%20system%20review.pdf), [recording](https://youtu.be/71-W_X2DQxk?si=5fwduJUVrhLbcXiy)
 - DeepSeek R1: Incentivizing Reasoning Capability in LLMs. [paper](https://arxiv.org/abs/2501.12948), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a91d35520f98d444cd3f52601585ecc5a6eb143b/presentation-slides/DeepSeek-R1.pdf), [recording](https://youtu.be/AEN_D3UIFvY?si=pQUQpzgYY6CiqmTx)
@@ -10,7 +15,6 @@ LLM reading group discussed at [Houston Machine Learning Meetup](https://www.mee
 - LoRA: Low-Rank Adaptation of Large Language Models. [paper](https://arxiv.org/abs/2106.09685), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/LoRA_and_QLoRA.pdf), [recording](https://youtu.be/nFh0uRqlWjw)
 - QLORA: Efficient Finetuning of Quantized LLMs. [paper](https://arxiv.org/abs/2305.14314), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/LoRA_and_QLoRA.pdf), [recording](https://youtu.be/nFh0uRqlWjw)
 - Automatic multi-step reasoning and tool-use for large language models. [paper](https://arxiv.org/abs/2303.09014), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/Automatic%20Multi-step%20Reasoning%20and%20Tool-use.pdf), [recording](https://youtu.be/BFrrii1G9lQ)
-- Amazon 2024 KDD cup Winning solution from Nvidia. [paper](https://openreview.net/pdf?id=sv0E1mBhu8), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/NVIDIA-KDD2024-Slides.pdf), [recording](https://youtu.be/0rVId3DGEeY)
 - Inference Optimization for Foundation Models on AI Accelerators: Model Quantization and Distillation. [paper](https://drive.google.com/file/d/1uVhHtRBwXy7o8ejaS6Ab6pSybkzticE3/view), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/LLM_inference_optimization_model_compression.pdf), [recording](https://youtu.be/9nmmfjM-b8g)
 - Inference Optimization for Foundation Models on AI Accelerators: Architecture, KV cache and Flash attention. [paper](https://drive.google.com/file/d/1uVhHtRBwXy7o8ejaS6Ab6pSybkzticE3/view), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/LLM_inference_optimization_architecture_KVcache_flash_attention.pdf), [recording](https://youtu.be/jk2FsJxZFo8)
 - Mistral and Mixtral of Experts. [paper](https://arxiv.org/abs/2401.04088), [slides](), [recording](https://youtu.be/nw8ByURxaSQ)
