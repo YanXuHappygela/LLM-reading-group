@@ -1,12 +1,14 @@
 # LLM reading group
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
-## Agentic AI Use Case
-- LAW: Legal Agentic Workflows for Custody and Fund Services Contracts. [Paper](https://arxiv.org/pdf/2412.11063)
+## Agentic AI applications
+- LAW: Legal Agentic Workflows for Custody and Fund Services Contracts. [Paper](https://arxiv.org/pdf/2412.11063), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/LAW.pdf), [recording](https://youtu.be/RQsq_GqPKwc)
 - AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environment. [Paper](https://arxiv.org/pdf/2405.07960), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/f19d9e79fb7f5285ada03ec142e6295e7732346f/presentation-slides/Agentic_AI_clinical_diagnosis.pdf), [recording](https://youtu.be/4KYuY-vNbDs?si=h4btqvqEiOPzBudX)
 - Amazon 2024 KDD cup: Multi Task Online Shopping Challenge for LLMs. [paper](https://openreview.net/pdf?id=sv0E1mBhu8), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/e41c398a6dd38a1692271f12b2844bf4ea581d86/presentation-slides/NVIDIA-KDD2024-Slides.pdf), [recording](https://youtu.be/0rVId3DGEeY)
+- MCP: Why, What and How. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/MCP.pdf),[recording](https://youtu.be/BXeHMjAhrPk)
   
 ## Research papers
+- V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. [Paper](https://arxiv.org/pdf/2506.09985), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/WorldModel.pdf), [recording](https://youtu.be/LY_J9-7BjOc)
 - AFlow: Automating Agentic Workflow Generation. [Paper](https://arxiv.org/abs/2410.10762), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a9caff8e065f1f015b2cdcfc2570d864f125c317/presentation-slides/AFlow.pdf), [recording](https://youtu.be/07FFbeD3qWM?si=prJNq6jQcxO7yAL6)
 - Large Language Model based Multi-agent System: A Survey of Progress and Challenges. [Paper](https://arxiv.org/pdf/2402.01680), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/0c33c40b0afc6ff3ba972c959330b41ad5b29292/presentation-slides/Multi-agent%20system%20review.pdf), [recording](https://youtu.be/71-W_X2DQxk?si=5fwduJUVrhLbcXiy)
 - DeepSeek R1: Incentivizing Reasoning Capability in LLMs. [paper](https://arxiv.org/abs/2501.12948), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a91d35520f98d444cd3f52601585ecc5a6eb143b/presentation-slides/DeepSeek-R1.pdf), [recording](https://youtu.be/AEN_D3UIFvY?si=pQUQpzgYY6CiqmTx)
