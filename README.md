@@ -1,7 +1,8 @@
 # LLM reading group
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
-## Agentic AI applications
+## Agentic AI use cases
+- How Claude Code is Built. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/f1e004c077e44862a1a0a3859bc92620920b014f/presentation-slides/How_Claude_Code_is_Built.pdf), [recording](https://youtu.be/_KJPemq1M6o?si=sC63xNdcO6eo9JjD)
 - Building Effective AI Agents for Millions of Users: Lessons learned from Manus. [Web link](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/Lessons_from_Building_Manus.pdf), [recording](https://youtu.be/u4Ox4SBSwLI?si=WmZpRGxYHkz8lX2_)
 - Text-to-SQL for Enterprise Data Analytics. [Paper](https://drive.google.com/file/d/1VM-D4MWAUJ_Kovq9acN9GNLLp2LMN_YU/view), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/Text2SQL.pdf), [recording](https://youtu.be/LVkDuaqlhvs?si=UAHQoGVOFttbLQwK)
 - LAW: Legal Agentic Workflows for Custody and Fund Services Contracts. [Paper](https://arxiv.org/pdf/2412.11063), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/LAW.pdf), [recording](https://youtu.be/RQsq_GqPKwc)
