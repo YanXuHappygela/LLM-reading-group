@@ -2,6 +2,7 @@
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
 ## Agentic AI use cases
+- Inside Claude Code: What Source Codes Revealed. [blog](https://medium.com/@YanAIx/inside-claude-code-design-principles-of-a-powerful-agent-d36a8bed5ada), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/6244bfe5110e87a85c2916442caed6855de0b936/presentation-slides/Inside_Claude_Code_Design_Principles_of_a_Powerful_Agent.pdf), [recording](https://youtu.be/vb0GY2VBC6E)
 - AI Mode in Search: Proative Agent-driven Search. [Paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737249), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/8fe4102388631ba0933c599586ac4f23043c8292/presentation-slides/ProactiveAgentinSearch.pdf), [recording](https://youtu.be/aWBgDeCVcZI)
 - How Claude Code is Built. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/f1e004c077e44862a1a0a3859bc92620920b014f/presentation-slides/How_Claude_Code_is_Built.pdf), [recording](https://youtu.be/_KJPemq1M6o?si=sC63xNdcO6eo9JjD)
 - How Manus is Built: Building Effective AI Agents for Millions of Users. [Web link](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/Lessons_from_Building_Manus.pdf), [recording](https://youtu.be/u4Ox4SBSwLI?si=WmZpRGxYHkz8lX2_)
