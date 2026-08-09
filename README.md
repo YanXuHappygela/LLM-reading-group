@@ -13,6 +13,7 @@ LLM reading group discussed at [Houston Machine Learning Meetup](https://www.mee
 - MCP: Why, What and How. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/MCP.pdf),[recording](https://youtu.be/BXeHMjAhrPk)
   
 ## Research papers
+- LLM Inference Optimization: From token to scale. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/c7e77e5c42342a8cd9dd5875a9077ae42c550db1/presentation-slides/LLM_Inference_Optimization_From_Token_to_Scale.pdf), [recording](https://youtu.be/pcUc5eIREU8)
 - Effective context engineering for AI agents. [Web link](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/Effective_Context_Engineering_for_AI_Agents.pdf), [recording](https://youtu.be/U4r2tsMfZ4Q?si=L5PB8IvQ5id-uw0Z)
 - Small Language Models are the Future of Agentic AI. [Paper](https://arxiv.org/pdf/2506.02153), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/SLMs.pdf), [recording](https://youtu.be/K95EUedfDOI?si=t11cx-rykT8yOZVe)
 - V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning. [Paper](https://arxiv.org/pdf/2506.09985), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/WorldModel.pdf), [recording](https://youtu.be/LY_J9-7BjOc)
