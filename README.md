@@ -2,6 +2,7 @@
 LLM reading group discussed at [Houston Machine Learning Meetup](https://www.meetup.com/houston-machine-learning/?eventOrigin=event_home_page)
 
 ## Agentic AI use cases
+-Netflix GenRec: Toward LLM-native Recommendation. [paper](https://arxiv.org/pdf/2608.10257v2), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a0cf401378f4e6ea447f4c02efc38e1be95ade0a/presentation-slides/GenRec-%20An%20LLM-Backed%20Recommendation%20Ranker%20at%20Netflix.pdf), [recording](https://youtu.be/Qt69WAc6b1Q)
 - Inside Claude Code: What Source Codes Revealed. [blog](https://medium.com/@YanAIx/inside-claude-code-design-principles-of-a-powerful-agent-d36a8bed5ada), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/6244bfe5110e87a85c2916442caed6855de0b936/presentation-slides/Inside_Claude_Code_Design_Principles_of_a_Powerful_Agent.pdf), [recording](https://youtu.be/vb0GY2VBC6E)
 - AI Mode in Search: Proative Agent-driven Search. [Paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737249), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/8fe4102388631ba0933c599586ac4f23043c8292/presentation-slides/ProactiveAgentinSearch.pdf), [recording](https://youtu.be/aWBgDeCVcZI)
 - How Claude Code is Built. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/f1e004c077e44862a1a0a3859bc92620920b014f/presentation-slides/How_Claude_Code_is_Built.pdf), [recording](https://youtu.be/_KJPemq1M6o?si=sC63xNdcO6eo9JjD)
@@ -13,6 +14,7 @@ LLM reading group discussed at [Houston Machine Learning Meetup](https://www.mee
 - MCP: Why, What and How. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/007b85a438bc3d1a21b91dd0976dd3de6dba9a71/presentation-slides/MCP.pdf),[recording](https://youtu.be/BXeHMjAhrPk)
   
 ## Research papers
+- vLLM: Efficient LLM serving. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/a0cf401378f4e6ea447f4c02efc38e1be95ade0a/presentation-slides/vLLM_Architecture%2C_hands-on_serving%2C_and_operational_practice.pdf), [recording](https://youtu.be/RT5Z-CjvWjc)
 - Kimi K3: Open Frontier Intelligence. [paper](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf),[slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/bc23ff41ce9458fe0722993b70d6d559af81ba53/presentation-slides/Kimi_K3_Open_Frontier_Intelligence.pdf), [recording](https://youtu.be/wbr7HhwQfus)
 - LLM Inference Optimization: From token to scale. [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/c7e77e5c42342a8cd9dd5875a9077ae42c550db1/presentation-slides/LLM_Inference_Optimization_From_Token_to_Scale.pdf), [recording](https://youtu.be/pcUc5eIREU8)
 - Effective context engineering for AI agents. [Web link](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents), [slides](https://github.com/YanXuHappygela/LLM-reading-group/blob/00ac75da35e88b4516828fdc63eeddab31d2c61b/presentation-slides/Effective_Context_Engineering_for_AI_Agents.pdf), [recording](https://youtu.be/U4r2tsMfZ4Q?si=L5PB8IvQ5id-uw0Z)
